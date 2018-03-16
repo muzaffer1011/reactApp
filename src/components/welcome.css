@@ -1,0 +1,10 @@
+.fullScreenMessage h1{
+    position: absolute;
+    text-align:center;
+    color:#ffffff;
+    width:100%;
+    top:50%;
+    left:0;
+    font-size: 72px;
+    transform: translateY(-50%);
+}
